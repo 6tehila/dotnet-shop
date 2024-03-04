@@ -1,0 +1,23 @@
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Core\bin\Debug\net6.0\Shop.Core.deps.json
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Core\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Core\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfo.cs
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.dll
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Core\obj\Debug\net6.0\refint\Shop.Core.dll
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.pdb
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Core\obj\Debug\net6.0\ref\Shop.Core.dll
+C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Core\bin\Debug\net6.0\Shop.Core.deps.json
+C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Core\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Core\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfo.cs
+C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.dll
+C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Core\obj\Debug\net6.0\refint\Shop.Core.dll
+C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.pdb
+C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Core\obj\Debug\net6.0\ref\Shop.Core.dll
