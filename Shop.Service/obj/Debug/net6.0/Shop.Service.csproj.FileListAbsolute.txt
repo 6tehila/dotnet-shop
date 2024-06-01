@@ -32,3 +32,20 @@ C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Service\obj\Deb
 C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Service\obj\Debug\net6.0\refint\Shop.Service.dll
 C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Service\obj\Debug\net6.0\Shop.Service.pdb
 C:\Users\User\Documents\.NET\‏‏תיקיה חדשה\Shop\Shop.Service\obj\Debug\net6.0\ref\Shop.Service.dll
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\bin\Debug\net6.0\Shop.Service.deps.json
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\bin\Debug\net6.0\Shop.Service.dll
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\bin\Debug\net6.0\Shop.Service.pdb
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\bin\Debug\net6.0\Shop.Data.dll
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\bin\Debug\net6.0\Shop.Data.pdb
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\obj\Debug\net6.0\Shop.Service.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\obj\Debug\net6.0\Shop.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\obj\Debug\net6.0\Shop.Service.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\obj\Debug\net6.0\Shop.Service.AssemblyInfo.cs
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\obj\Debug\net6.0\Shop.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\obj\Debug\net6.0\Shop.Service.csproj.CopyComplete
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\obj\Debug\net6.0\Shop.Service.dll
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\obj\Debug\net6.0\refint\Shop.Service.dll
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\obj\Debug\net6.0\Shop.Service.pdb
+C:\Users\User\Downloads\dotnet-shop\Shop.Service\obj\Debug\net6.0\ref\Shop.Service.dll

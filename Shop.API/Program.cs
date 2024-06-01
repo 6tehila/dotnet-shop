@@ -1,4 +1,5 @@
 using AutoMapper;
+using Shop.API;
 using Shop.Core;
 using Shop.Core.Repositories;
 using Shop.Core.Service;
@@ -29,12 +30,12 @@ builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IProviderService, ProviderService>();
 //builder.Services.AddSingleton<DataContext>();
 builder.Services.AddDbContext<DataContext>();
-var app = builder.Build();
+
 
 //builder.Services.AddSingleton<Mapping>();
 
 builder.Services.AddAutoMapper(typeof(MappingProfile));
-
+var app = builder.Build();
 
 
 // Configure the HTTP request pipeline.
@@ -43,6 +44,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseMiddleware<MiddleWare>();
 
 app.UseHttpsRedirection();
 
